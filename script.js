@@ -3,6 +3,7 @@ let words = [
   "Sling",
   "Crate",
   "Brick",
+  "teeth"
   "press",
   "truth",
   "sweet",
