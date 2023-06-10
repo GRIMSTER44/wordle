@@ -8,6 +8,7 @@ let words = [
   "truth",
   "sweet",
   "salty",
+  "break"
   "alert",
   "check",
   "roast",
